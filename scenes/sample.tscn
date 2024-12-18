@@ -32,7 +32,7 @@ dof_blur_far_distance = 0.01
 
 [sub_resource type="Curve3D" id="Curve3D_5n82a"]
 _data = {
-"points": PackedVector3Array(0, 0, 0, 0, 0, 0, -25.545, 2.4, -1.4, 0, 0, 0, 0, 0, 0, -19, 2.4, -1.4),
+"points": PackedVector3Array(0, 0, 0, 0, 0, 0, -25.7029, 2.4, -1.4, 0, 0, 0, 0, 0, 0, -19, 2.4, -1.4),
 "tilts": PackedFloat32Array(0, 0)
 }
 point_count = 2
